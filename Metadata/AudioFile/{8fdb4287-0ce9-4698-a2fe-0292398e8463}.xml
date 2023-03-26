@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8fdb4287-0ce9-4698-a2fe-0292398e8463}">
+		<property name="assetPath">
+			<value>res_music_hades.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>118.15385487528344</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8b4a5b2a-9dec-436e-adad-acfc55bf49c9}</destination>
+		</relationship>
+	</object>
+</objects>
