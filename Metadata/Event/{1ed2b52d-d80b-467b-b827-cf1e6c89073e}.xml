@@ -90,10 +90,12 @@
 	<object class="MixerBusPanner" id="{a315ff90-7b64-4464-a16a-bc0e233a25d9}" />
 	<object class="MixerBusEffectChain" id="{333fccd1-7f10-4d7d-b1bb-d62fb1ebc112}">
 		<relationship name="effects">
+			<destination>{c7b46b47-1fb8-4c94-b045-b43d6e0864cd}</destination>
 			<destination>{9277ef6d-0594-4020-8788-fe4eef0c718a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{0d01d5ca-42b9-408b-a9db-157a7e6f2dcf}" />
 	<object class="MixerBusFader" id="{5a19539f-4a45-41b8-846b-1770830ff78e}" />
+	<object class="SFXReverbEffect" id="{c7b46b47-1fb8-4c94-b045-b43d6e0864cd}" />
 	<object class="MixerBusFader" id="{9277ef6d-0594-4020-8788-fe4eef0c718a}" />
 </objects>
