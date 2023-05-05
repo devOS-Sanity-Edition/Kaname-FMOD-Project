@@ -182,7 +182,7 @@
 			<value>0</value>
 		</property>
 		<property name="tempo">
-			<value>65</value>
+			<value>130</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{5bfe9d4d-a6d7-4274-9dff-6f97d9a69fb2}</destination>
